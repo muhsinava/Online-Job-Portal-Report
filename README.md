@@ -1,0 +1,3 @@
+Online Job Portal Management System is a database-driven application designed to simplify and Enhance the job recruitment process. By bridging the gap between job seekers and employers through a Centralized system, it facilitates efficient job posting, resume management, and application tracking.
+Job Seekers can upload their resumes, while employers can post job vacancies and review applications through an intuitive interface. The system incorporates deep learning for resume summarization, enabling recruiters to extract and analyse key details such as skills, experience, and qualifications efficiently. 
+This innovation Reduces administrative workload and enhances the job matching process
